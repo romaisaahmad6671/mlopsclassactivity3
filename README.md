@@ -1,3 +1,5 @@
+# Triggering CI Pipeline
+
 # 🚀 MLOps Class Activity: CI/CD Pipeline using GitHub Actions
 
 [![CI Pipeline](https://github.com/romaisaahmad6671/mlopsclassactivity3/actions/workflows/ci-pipeline.yml/badge.svg)](https://github.com/romaisaahmad6671/mlopsclassactivity3/actions/workflows/ci-pipeline.yml)
